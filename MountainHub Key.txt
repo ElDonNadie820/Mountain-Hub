@@ -238,7 +238,7 @@ local function UEKMQCL_fake_script() -- CheckKeyButton.KeyValidationScript
 	local TweenService = game:GetService("TweenService")
 	
 	checkKeyButton.MouseButton1Click:Connect(function()
-		if keyInput.Text == "secreta1" then
+		if keyInput.Text == "MountainKey-UVuydjNDJPPMiNigGeR" then
 				keySystemGui.Enabled = false
     loadstring(game:HttpGet("https://raw.githubusercontent.com/ElDonNadie820/Mountain-Hub/refs/heads/main/MountainHub%20Anime%20Card%20Master.txt",true))()
 			end)
