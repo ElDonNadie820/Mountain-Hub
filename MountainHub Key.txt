@@ -225,7 +225,7 @@ local function TVVT_fake_script() -- GetKeyButton.GetKeyScript
 	
 	GetKey.MouseButton1Click:Connect(function()
 		print("copied to clipboard!")
-		setclipboard("MountainKey-UVuydjNDJPPMiNigGeR")
+		setclipboard("MountainKey-MountainKey-UVuydjNDJPPMiNigGeR")
 	end)
 end
 coroutine.wrap(TVVT_fake_script)()
